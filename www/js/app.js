@@ -42,3 +42,5 @@ angular.module('mobile-map-io', [
 });
 
 angular.module('controllers', []);
+
+//am kind of satisfied about the code as for now or at this moment.. still rieviewing
