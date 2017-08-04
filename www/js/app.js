@@ -42,3 +42,4 @@ angular.module('mobile-map-io', [
 });
 
 angular.module('controllers', []);
+//checking for errors but am not seeing any
