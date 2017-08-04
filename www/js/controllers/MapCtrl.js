@@ -276,3 +276,4 @@ angular.module('controllers')
         );
     };
 })
+// got no idea what is happening on this... to be honest but am doing it right to understand it
